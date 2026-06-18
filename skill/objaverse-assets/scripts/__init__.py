@@ -1,0 +1,1 @@
+"""Objaverse asset skill scripts."""
