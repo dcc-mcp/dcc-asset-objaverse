@@ -1,6 +1,6 @@
 # DCC-MCP Objaverse Assets
 
-![Workflow showcase](docs/workflow-showcase.png)
+![Workflow showcase](docs/images/dcc-asset-objaverse-showcase.webp)
 
 Objaverse discovery and GLB download tools for DCC-MCP.
 
