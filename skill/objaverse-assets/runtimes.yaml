@@ -1,0 +1,8 @@
+runtimes:
+  - name: objaverse-python
+    type: python_package
+    package: objaverse
+    module: objaverse
+    description: Objaverse Python client used to query metadata and download objects.
+    optional: false
+    guidance: Install objaverse in the target adapter Python environment; the skill never installs packages.

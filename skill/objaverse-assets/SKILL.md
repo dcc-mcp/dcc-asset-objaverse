@@ -17,6 +17,7 @@ metadata:
       - download
     search-hint: "objaverse, creative commons 3d dataset, hugging face 3d objects, glb download"
     tools: tools.yaml
+    runtimes: runtimes.yaml
 ---
 
 # Objaverse Assets
