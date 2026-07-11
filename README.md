@@ -1,5 +1,7 @@
 # DCC-MCP Objaverse Assets
 
+![Workflow showcase](docs/workflow-showcase.png)
+
 Objaverse discovery and GLB download tools for DCC-MCP.
 
 This skill is a thin wrapper around the official `objaverse` Python package.
